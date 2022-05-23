@@ -1,0 +1,5 @@
+.vscode
+.env
+logixalga.key.json
+webClient1.json
+/node_modules
