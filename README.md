@@ -2,7 +2,7 @@
 ## Installation
 ```bash
 git clone https://github.com/hitesh-bhargav/GA4-node.git
-cd GA-node
+cd GA4-node
 ```
 
 ## Quickstart
