@@ -1,7 +1,7 @@
 # GA-node
 ## Installation
 ```bash
-git clone https://github.com/hitesh-bhargav/GA-node.git
+git clone https://github.com/hitesh-bhargav/GA4-node.git
 cd GA-node
 ```
 
