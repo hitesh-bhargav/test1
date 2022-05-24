@@ -1,4 +1,4 @@
-# GA-node
+# GA4-node
 ## Installation
 ```bash
 git clone https://github.com/hitesh-bhargav/GA4-node.git
