@@ -1,11 +1,12 @@
 # GA4-node
-## Installation
+
+## Quickstart
+### Installation
 ```bash
 git clone https://github.com/hitesh-bhargav/GA4-node.git
 cd GA4-node
 ```
 
-## Quickstart
 
 ### Installing the client library
 
@@ -13,7 +14,6 @@ cd GA4-node
 npm install @google-analytics/data cors dotenv express googleapis
 ```
 
-## Quickstart
 > Create a .env file in root directory 
 
 ```bash
